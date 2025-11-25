@@ -1,0 +1,23 @@
+{
+  "discounts_enabled": true,
+  "discount_codes": [
+    {
+      "code": "WELCOME10",
+      "discount_percentage": 10,
+      "is_active": true,
+      "description": "خصم ترحيبي 10%"
+    },
+    {
+      "code": "SUMMER25",
+      "discount_percentage": 25,
+      "is_active": true,
+      "description": "خصم الصيف 25%"
+    },
+    {
+      "code": "FIRSTORDER",
+      "discount_percentage": 15,
+      "is_active": false,
+      "description": "خصم أول طلب 15% (غير مفعل)"
+    }
+  ]
+}
