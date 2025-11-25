@@ -2,20 +2,20 @@
   "discounts_enabled": true,
   "discount_codes": [
     {
-      "code": "WELCOME10",
-      "discount_percentage": 10,
+      "code": "ASSO40",
+      "discount_percentage": 40,
       "is_active": true,
-      "description": "خصم ترحيبي 10%"
+      "description": "Welcome discount 10%"
     },
     {
-      "code": "SUMMER25",
-      "discount_percentage": 25,
+      "code": "ASSO50",
+      "discount_percentage": 50,
       "is_active": true,
-      "description": "خصم الصيف 25%"
+      "description": "Welcome discount 50%"
     },
     {
       "code": "FIRSTORDER",
-      "discount_percentage": 15,
+      "discount_percentage": 30,
       "is_active": false,
       "description": "خصم أول طلب 15% (غير مفعل)"
     }
