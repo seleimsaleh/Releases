@@ -10,7 +10,7 @@
     {
       "code": "ASSO50",
       "discount_percentage": 50,
-      "is_active": false,
+      "is_active": true,
       "description": "Welcome discount 50%"
     },
         {
