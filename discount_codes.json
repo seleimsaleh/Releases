@@ -4,12 +4,36 @@
     {
       "code": "ASSO40",
       "discount_percentage": 40,
-      "is_active": true,
+      "is_active": false,
       "description": "Welcome discount 10%"
     },
     {
       "code": "ASSO50",
       "discount_percentage": 50,
+      "is_active": false,
+      "description": "Welcome discount 50%"
+    },
+        {
+      "code": "ASSO55",
+      "discount_percentage": 55,
+      "is_active": true,
+      "description": "Welcome discount 50%"
+    },
+        {
+      "code": "ASSO78",
+      "discount_percentage": 78,
+      "is_active": true,
+      "description": "Welcome discount 50%"
+    },
+        {
+      "code": "ASSO99",
+      "discount_percentage": 99,
+      "is_active": true,
+      "description": "Welcome discount 50%"
+    },
+        {
+      "code": "ASSO100",
+      "discount_percentage": 100,
       "is_active": true,
       "description": "Welcome discount 50%"
     },
